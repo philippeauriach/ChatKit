@@ -1,6 +1,7 @@
 # built application files
 *.apk
 *.ap_
+*.jar
 
 # files for the dex VM
 *.dex
@@ -38,4 +39,3 @@ android/proguard/
 .idea/
 build/
 .gradle
-.DS_Store
