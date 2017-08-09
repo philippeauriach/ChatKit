@@ -2,7 +2,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'com.novoda.bintray-release'
 apply plugin: 'com.github.dcendents.android-maven'
 
-group='com.philippeauriach'
+group='com.github.stfalcon'
 
 android {
     compileSdkVersion 25
