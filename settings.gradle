@@ -1,1 +1,2 @@
-include ':sample', ':chatkit'
+include 'chatkit'
+include 'sample'
