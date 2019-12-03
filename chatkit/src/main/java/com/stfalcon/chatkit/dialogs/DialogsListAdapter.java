@@ -277,6 +277,10 @@ public class DialogsListAdapter<DIALOG extends IDialog>
         }
         return null;
     }
+    
+    public List<DIALOG> getItems() {
+        return items;
+    }
 
     /**
      * Update last message in dialog and swap item to top of list.
